@@ -4,7 +4,7 @@
 
 #### First download the html files to your local disk.
 
-Click on the green button "Clone or download" and then click "Download the ZIP". To UnzipZIP file can be opened using )
+Click on the green button "Clone or download" and then click "Download the ZIP". Unzip the downloaded file as you normally would. Or please refer to the fowlloing instructions on how to unzip a file if you are Windows user (https://support.microsoft.com/en-us/help/14200/windows-compress-uncompress-zip-files) or a Mac user (https://support.apple.com/guide/mac-help/compress-uncompress-files-folders-mac-mchlp2528/mac)
 
 #### Then double-click on the html file of each day. It should open in your browser, e.g. Google Chrome.
 
